@@ -49,6 +49,10 @@
                 <behavior>Required</behavior>
                 <field>Agri_Next_Calculated_Month__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Last_Revision_service__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
